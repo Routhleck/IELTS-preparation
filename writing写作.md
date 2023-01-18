@@ -94,3 +94,83 @@
 ## 结尾段
 
 **简要、概括、不偏离**
+
+# 衔接手段
+
+**恰当使用多种衔接手段**
+
+**五种常用衔接手段：**
+
+1. 连接词(as a result, for example, if 等)
+2. 人称代词(they, them等)
+3. 物主代词(their等)
+4. 指示代词(this, these等)
+5. 与前面句子直接相关的名词
+
+## 明连接
+
+### 因果展开
+
+As a result, therefore
+
+### 举例展开
+
+For example, such as(不能出在句首)
+
+### 对比展开
+
+By contrast(后跟逗号) / while
+
+### 类比展开
+
+For example, Similarly, are likely to, are more likely to 
+
+### 让步展开
+
+although
+
+### 假设展开
+
+If, without ... , ... would
+
+### 下定义展开
+
+This means that(无逗号), In other words
+
+### 限定范围(具体化)展开
+
+Specifically
+
+## 暗承接
+
+不直接使用连接词，通过上下文之间的内在语义联系建立起支持句的请问衔接
+
+### 代词
+
+they对分论点中的 ... 进行指代
+
+They和their 建立起衔接
+
+当this在支持句开头独立使用时
+
+this后紧跟一个普通单数名词时
+
+### 与分论点直接相关的名词
+
+...
+
+## 支持句开头最常用的三种方式
+
+### 代词
+
+They, This, This means that ... 等
+
+### 连接词
+
+As a result, Therefore, For example, By contrast, If, Specifically, In other words 等
+因果、举例、对比、类比、让步、假设、下定义、限定范围
+
+### 名词
+
+Employees / Students / Many countries / Some advertisements 等
+或定语从句: People who ..., Parents who ..., Advertisements that ..., Buildings that 等
