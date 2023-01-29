@@ -174,3 +174,9 @@ As a result, Therefore, For example, By contrast, If, Specifically, In other wor
 
 Employees / Students / Many countries / Some advertisements 等
 或定语从句: People who ..., Parents who ..., Advertisements that ..., Buildings that 等
+
+​	
+
+# 急救短语
+
+http://writing.jtkeyi.com
