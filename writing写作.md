@@ -180,3 +180,41 @@ Employees / Students / Many countries / Some advertisements 等
 # 急救短语
 
 http://writing.jtkeyi.com
+
+# Task2 常见错误
+
+## 同不同意型
+
+官方只给你一种观点，要求提出并且论证**你自己对于这种观点的看法**，在全文任何位置**绝不能出现"Other people think that ..."**
+
+论证两方面和开头段提出自己的看法存在明显偏差
+
+**对策：**
+针对论证两方面分别用中文记录下来，随时提示自己。
+
+## D&G型
+
+时间安排不合理，用了90%的时间论述自己更有感觉的那个观点
+
+**对策：**
+
+如果写两个主体段，可以选择两个主体段的长度相近，也可以选择一段比较长而另一端比较短，但比较短的那一段也不要只用1~2句话
+三个主体段也不要一段只用1~2句话
+
+## 比较利弊型
+
+Do the advantages outweigh the disadvantages?和Is this a positive or negative trend?/ Is this a positive or negative development?
+两种开头和结尾有细微差别
+注意What are the advantage and disadvantages of this trend为Report分析型考题
+
+## Report型
+
+给一种现象，要求分析它的两个方面，最长要求分析的方面为cause产生原因和solution解决方法，注意还有些要求分析problems问题产生的原因、effects影响，advantages好处、弊端disadvantage
+
+**对策：**
+
+提醒自己注意题目到底要求你分析现象的哪两个方面
+
+## Mixed型
+
+Argument和Report混合体，概率低
