@@ -105,3 +105,117 @@ rarely
 
 > animations
 > really into ...
+
+# Part2
+
+如果题目是关于过去的经历，纸上写-ed提示自己注意时态
+
+积极参考topic下方4个提示点
+
+## 经历
+
+### 迟到的经历
+
+what you were late for
+when it happened
+why and how
+
+## 建筑和设施
+
+### 大型建筑
+
+where this place is
+how often you go there
+what this place is like and explain why you think this place is interesting
+
+### 小型建筑
+
+where it is
+what the building looks like on the outside and inside
+what it is used for and explain why you like this building
+
+### 公共设施
+
+where the place is
+when people go there
+what people do there and explain how you feel about this place
+
+## 个人和企业
+
+### 成功的人
+
+who this person is
+what you know about this person's life
+what qualities have made him successful and explain how you feel about this person
+
+### 有才华的人
+
+who this singer is
+how the singer became famous
+what is special about his/her music and explain how you feel about this singer
+
+### 家庭成员
+
+who this person is
+what kind of person he/she is
+what you do together and explain why you like to speed time with this person
+
+### 一个小生意
+
+where it is
+who you go there with
+what it is like and explain how you feel about this small business
+
+### 假期去的地方
+
+where it was
+when you went there
+what you saw there and explain how you felt about the place
+
+## 自然和动植物
+
+### 重要的植物
+
+what the plant is
+where it grows
+why it is important and explain how you feel about this plant
+
+## 休闲和媒体
+
+### 童年的游戏
+
+what the game was
+how often you played it
+how you learnt to play it and explain whether you still enjoy playing this game
+
+### 喜欢的电视节目
+
+what type of TV programme it is
+where you watch this programme
+what this programme is about and explain why you enjoy watching it
+
+### 喜欢的应用
+
+what it is
+when you started using it
+what you use it for and explain why you like this app
+
+## 物品
+
+### 制作的礼物
+
+what it was
+why you made it
+how you made it and explain how you felt about it
+
+### 满意的物品
+
+what you bought
+when you bought it
+what you use it for and explain why you are happy with it
+
+### 艺术品
+
+where you saw it
+what kind of work of art it was
+what it looked like and explain how you felt about it
