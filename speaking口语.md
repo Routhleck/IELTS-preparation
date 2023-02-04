@@ -219,3 +219,82 @@ what you use it for and explain why you are happy with it
 where you saw it
 what kind of work of art it was
 what it looked like and explain how you felt about it
+
+# Part 3
+
+答题有效的结构
+
+- standard
+- parallel
+- contrast
+
+## 标配式
+
+answer 回答 + explain 解释 + example 举例
+
+1. 明确回答考官提出的问题
+2. 简单解释你这样说的理由
+3. 支持你给出的理由
+
+## 并列式
+
+1. 先完成一个标配式结构 (回答+理由+举例)
+2. 给出自己的第2个理由，并且也简单地解释、支持第2个理由
+3. 如果还能想出更多的理由，可以再给出更多的理由并且也简单地解释、支持
+
+## 对比式
+
+1. 先完成一个标配式结构(回答+理由+举例)
+2. 用"On the other hand, ...", "Without ..., ... would ...", "If ... don't ..., ..."等方面再谈谈问题的另一面
+3. 对问题的另一面也可以简单地解释、支持
+
+## 出题规律
+
+### “是什么”类考题
+
+当对一个情况不是非常肯定的时候，说 As far as I know, ...或者 To the best of my knowledge, ...
+没有相当例子时就不必强行举例，**因果关系**也是深入讨论时常用的逻辑关系
+
+### “你怎么看”类考题
+
+### 原因类考题
+
+The main reason is ... + 举例 + Another reason is ... + 简单解释
+
+In other words, .../ This means that ... 简单转述常用
+Without ..., ... would ...假设相反情况
+
+### 方法类考题
+
+对于问solution的问题，可以直接回答有哪几种解决方法
+
+另一种回答解决方法类问题的常用句型是:
+Ideally, ... But in reality, ...
+
+### 对比类考题
+
+In the past, ... Nowadays, ...是对比**过去和现在**的常用结构
+
+### 利弊类考题
+
+有时只问advantage或disadvantages,**让你的答案完全符合考官的期待**
+
+### 展望未来类考题
+
+展望未来时，动词应该用将来时
+对于你比较熟悉的趋势用will probably
+
+对于"...是否会完全消失"的问题，回答"确实会减少，但不会完全消失通常更容易展开"
+
+## 十大理由
+
+- 心情
+- 技能
+- 权利
+- 环境
+- 经济
+- 交流
+- 效率
+- 责任
+- 健康
+- 安全
