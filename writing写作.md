@@ -80,6 +80,8 @@
 
 ### advantages and disadvantages(比较利弊) 型考题的开头段
 
+Some people ... . I believe
+
 ### report(分析) 型考题的开头段
 
 **看清题目到底要求你分析这种现象的哪两个方面**(例如：产生原因cause + 解决方法solutions, 或者这种现象导致的问题problems + 可以采取的措施measures等)
