@@ -298,3 +298,137 @@ In the past, ... Nowadays, ...是对比**过去和现在**的常用结构
 - 责任
 - 健康
 - 安全
+
+# [终极总结！雅思口语Part 1,2,3全题型攻略解析](https://zhuanlan.zhihu.com/p/379910939)
+
+## Part 1
+
+### 职业或家 Work/Home
+
+[A] **Do you work or are you a student?**
+[B] **Tell me about where you live.**
+
+> [A] I'm a student. I'm currently studying at Beijing Jiaotong University and my major is software engineering.
+> [B] I should mention that I live in an apartment in Beijing Tongzhou district. I've been living there for 10 years.
+
+### 喜好类 Liking
+
+轮换使用表达，尽量使用同义词来替换
+
+> I'm fairly/pretty keen on...
+> I'm really into...
+> I'm quite a fan of...
+> I simply adore...
+> I'm filled with joy when...
+
+答题结构
+
+> Well to be honest, in general I would say that **I'm actually quite keen on**（+类别名词）**,** but in particular I would mention that **I'm really into**（+具体答案词）**.** I guess the reason why **I'm quite a fan of**（+例子）is because I **simply adore**（+原因解释）.
+
+### 讨厌类 Disliking
+
+回答要有层次感，一个问题可以用不同程度来回答
+
+>Absolutely, I have to say that ().（超级肯定）
+>For the most part, I think I'd have to say that ().（多半肯定）
+>To some extent, I suppose I don't usually ().（大致认为）
+>Well, I wouldn't say I'm actually ().（轻度否定）
+>To be honest, it's hard for me to give a definite answer, in particular ().（犹豫不决）
+
+不喜欢的表达
+
+>I'm not so keen on...
+>I really can't stand...
+>I find... extremely unpleasant.
+>have a dislike of...
+>... is getting on my nerves.
+>... is driving me up the wall.
+
+回答结构
+
+> For the most part, I think I'd have to say that **I'm not so keen on**（+类别名词）. To be specific, **I really can't stand**（+具体例子）. This is mainly because（+原因解释）**and I find it extremely unpleasant**, so（+结果）.
+
+### 频率类 How often
+
+答题结构
+
+> Well, I would have to say that **it really depends**.（引出分类）For example, if（+第一种情形）, then **it's quite possible that** I will...（+第一个选择）But if（+第二种情形）, then **I will most likely**...（+第二个选择）
+
+### 是非类 Yes/No
+
+答题结构
+
+> Well in fact, if I think about it, **I guess that in many ways it's**（+正面观点）, especially when you consider that（+解释原因）. **But you also need to understand X sometimes is**（+反面观点）**.** This is mainly because（+解释原因）.
+
+> Well, **case by case**（视个体情况而定）. **On the one hand**, I think（+主题）is more important to（+第一类人）than（+第二类人）, meaning that（+解释）. || **On the other hand**,（+第二类人）have bigger fish to fry! The reason behind is that（+解释）.
+
+### 偏好类 Do you prefer
+
+
+
+### 最喜爱类 Favourite
+
+
+
+### 能力类 Ability
+
+
+
+### 型式类 What type
+
+
+
+### 假设类 Would
+
+
+
+### 是非类 Do... / Is ...
+
+
+
+### 时态类 How long...
+
+
+
+### 话题类 Topic-based
+
+
+
+### 观点类 Do you think...
+
+
+
+## Part 2
+
+### 城市与建筑类 City & Building
+
+以下维度构思
+
+> **地点**（location）
+> **历史**（history）
+> **样貌：外观、内设**（appearance）
+> **使用的人**（users/visitors）
+> **氛围**（atmosphere）
+> **服务**（service）
+
+引出话题的句式
+
+> **In terms of...**
+> **When it comes to...**
+> **As far as X is concerned**
+> **Moving on to...**
+> **Speaking about...**
+
+答题结构
+
+> **Okay, I guess I could start off by talking about X.**（第一句引出答案）
+>
+> ① **In terms of** the location（引出第一个话题：地点）, I would say that it's conveniently located. It's a landmark in… , so to speak. I suppose it's just a stone's throw away from..., about five minutes' walk.
+>
+> **When it comes to** the history of X（引出加料话题：历史）, it's pretty old I believe. It can date back to as long as 200 years ago; that's probably when the school was founded.
+>
+> ② **As far as** the appearance **is concerned**（引出第二个话题：样貌）, it's... My initial impression was that... Well, another amazing feature that I also like to point out is that…, which I guess is possibly... Because of this, many would agree that… When I…, what immediately caught my eyes was... To be specific, ...
+>
+> ③ My first visit, **if I remember correctly**, was when...（引出第三个话题：时间）, to be exact. **Moving on to** the reasons of my visit（引出第三个话题：第一次去的原因）, I suppose the most obvious one is that...
+>
+> ④ Lastly, **speaking about** the reasons why...（引出第四个话题：喜欢去的原因）, well, for the most part, what makes X really amazing is…, such as A, B, and C. Every time I went there, it's likely that I could... For example, …
