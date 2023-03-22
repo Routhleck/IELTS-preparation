@@ -4,15 +4,11 @@
 
 **1. Do you work or are you a student?**
 
-我是…的学生，我准备留学，这是我来考试的原因
-
 >CY: As a Ph.D. candidate, I am both a student and a researcher. I'm planning to study abroad, and that's why I'm taking the test today.
 
 **2. What subjects are you studying?**
 
->CY: I'm majoring in Management Science and Engineering, my research focuses on the Logistics and Supply Chain Management. I study a range of subjects including optimization, game theory, decision-making, statistics, and data analysis.
-
->CY: In particular, I am interested in using mathematical models and algorithms to improve business practices and decision-making processes.  I am excited to continue pursuing this research as I work towards my Ph.D. degree.
+>CY: I'm majoring in Management Science and Engineering, my research focuses on the Logistics and Supply Chain Management. I study a range of subjects including optimization, game theory, decision-making, statistics, and data analysis. 
 
 **3. Do you like your subject?**
 
@@ -20,7 +16,8 @@
 
 **4. Why did you choose to study that subject?**
 
->CY:  see 2 or 3
+>CY:  see 2 or 3 
+I am interested in using mathematical models and algorithms to improve business practices and decision-making processes.
 
 >CY:  I chose my subject because I believe that our major has the potential to create a significant impact on society by improving business operations and decision-making. This field offers a wide range of opportunities for research and innovation, and I wanted to be a part of that. Additionally, as a Ph.D. candidate, I am able to work closely with other researchers and industry professionals, which allows me to learn from experts in the field and stay up-to-date with the latest developments. Overall, I believe that my subject provides a unique opportunity to apply my skills and interests to real-world problems and make a positive impact on society.
 
@@ -29,8 +26,6 @@
 >CY: Yes,  Absolutely. The field encompasses a wide range of topics, including optimization theory, data analytics, operations research and so on. This diversity allows me to explore different areas of interest and apply a variety of approaches to problem-solving. Furthermore, as a Ph.D. candidate, I have the opportunity to conduct cutting-edge research and work with experts in the field. This allows me to stay up-to-date with the latest developments and contribute to the field through my own research. Overall, I find my subject to be a very dynamic and engaging field, and I am constantly learning and discovering new ways to apply my skills to real-world problems.
 
 **6. Do you prefer to study in the mornings or in the afternoons?**
-
->CY:  I actually prefer to study in the mornings. People tend to have a quite clear mind and a good mood in the morning. So by reading some delightful articles I can have a good start of my day.
 
 >CY:  Night, definitely. I find that studying at night can be quite productive. In fact, I often find that I am more focused and creative during the night, when the distractions of the day have subsided. Additionally, studying at night allows me to take advantage of any bursts of inspiration or ideas that I may have while working on my research. However, I recognize that studying at night can also have some drawbacks, such as disrupting my sleep schedule. Therefore, I try to strike a balance between studying at night and getting enough rest to ensure that I am able to maintain a healthy and sustainable study routine. 
 
@@ -49,10 +44,6 @@
 >CY:  I am currently living in One Bedroom Apartment, which is not far from my office. Many of my friends also live there. While the room is not very large, it is comfortable and has all of the amenities that I need, including a bathroom, a balcony and a study area. I'm quite satisfied with my living environment.
 
 **2. Can you describe the place where you live?**
-
-北京有很多资源和机会
-
->CY:  Well, I live in Beijing, the capital city of China. It has quite a few resources with lots of opportunities. 
 
 >CY:  Sure, I live in Guangzhou, a large and vibrant city in southern China. It is the capital of Guangdong Province and is known for its rich history, culture, and economic importance. The city is situated along the Pearl River and has a humid climate. It is home to many universities, research institutions, and businesses, making it an ideal place for a Ph.D. candidate like myself to pursue my studies. The city is also known for its delicious cuisine,  and lively nightlife, which makes it an exciting and dynamic place to live.
 
@@ -110,13 +101,9 @@ Ultimately, the choice between living in a house or a flat depends on individual
 
 **15. What makes you feel pleasant in your home?**
 
-跟家人一起度过，学习远离家，只在假期回家，不在父母身边感到孤独，珍视我们的 movie nights
-
 >CY:  Spending time with family for sure. I’m studying far away from home, so I only visit family during the holidays. I already feel that I’m spending so little time with my parents, and they are getting lonely when I’m not around. Now, I really treasure our movie nights at home!
 
 **16. What's the difference between where you are living now and where you lived in the past?**
-
-比之前的清净，人比之前少，成长的公寓，都是大家庭成员
 
 >CY:  The place where I am living in now is much quieter than where I lived before. The apartment I am living in now does not have as many people living in as where I grew up. In the apartment where I grew up, I was surrounded by all the members of my large family.
 
@@ -134,10 +121,6 @@ Ultimately, the choice between living in a house or a flat depends on individual
 
 **2. Is that a big city or a small place?**
 
-地理上很大，但都居住在市中心就很小，剩下的是农田
-
->CY:  The geographical area is quite large, but people all live in the city centre which is quite small. The rest is just farmland.
-
 >CY: Ganzhou City is a mid-sized city in Jiangxi Province with a population of around 9 million people. It is the largest city in the southern part of Jiangxi Province and an important transportation hub in the region.
 
 **3. Do you like your hometown?**
@@ -146,21 +129,15 @@ Ultimately, the choice between living in a house or a flat depends on individual
 
 **4. What do you like (most) about your hometown?**
 
-人，热情好客，放松，享受低成本慢节奏生活，在公园尽情跳舞
-
 >CY:  The people! People in my hometown are super welcoming, hospitable, and laid-back. They enjoy their low cost-of-living and slow-paced lifestyle. You can easily find people having a good time dancing in parks.
 
 **5. Is there anything you dislike about it?**
-
-虽然发展很快，没有高薪工作，5000 元/月，很难省钱买车、房
 
 >CY:  Although the city has been growing quite rapidly in recent years, there aren’t many high paying jobs. Most people make about 5,000 RMB a month which is about $1,000, so it’s still quite difficult to save enough money for a car or a house.
 
 **6. How long have you been living there?**
 
-12 年，走出舒适区搬到北京寻找更多机会
-
->CY:  It's about 12 years, my parents and I got out of our comfort zone and moved to Beijing from my hometown for more opportunities.
+>CY:  
 
 **7. Do you like living there?**
 
@@ -199,13 +176,9 @@ Ultimately, the choice between living in a house or a flat depends on individual
 
 **15. What are some changes in the area recently?**
 
-体育馆，地标，外部和周围整晚照明，漂亮
-
 >CY:  There is a stadium that was recently renovated. It is the landmark of the city; the exterior and its surrounding area remain illuminated all night which makes the city centre stunningly beautiful!
 
 **16. Do you know any of your neighbors?**
-
-北京搬好几次，上次 5 年前，忙于学习，没时间了解
 
 >CY:  Not so much. We moved many times within Beijing. The last time we have moved was about 5 years ago. At that time, I was so busy about my study,  so I never really have the time to know my neighbors.
 
@@ -215,19 +188,13 @@ Ultimately, the choice between living in a house or a flat depends on individual
 
 **1. Do you like getting up early in the morning?**
 
-早上，更清醒和好心情，读些文章是一天的好的开始
-
 >CY:  I actually prefer to study in the mornings. People tend to have a quite clear mind and a good mood in the morning. So by reading some delightful articles I can have a good start of my day.
 
 **2. What do you usually do in the morning?**
 
-工作日洗漱、整理床、看邮件，拿个咖啡去学校，周末不一样，起得晚
-
 >CY:  Well, on weekdays, I will just be doing my morning routines like brushing my teeth, making the bed, checking my emails briefly, and grabbing a cup of coffee on the way to school, etc. I don’t follow the same routines because I usually weak up at noon on the weekends.
 
 **3. What did you do in the morning when you were little? Why?**
-
-刷牙、整理床。每天吃早饭，对于我长身体很重要
 
 >CY:  Simple things like brushing my teeth and making the bed. Well, I did eat breakfast everyday because it was essential for my growth during my primary and secondary school years.
 
@@ -768,8 +735,7 @@ And explain why you feel relaxed at this place
 **4. What is the place where people spend most of their time at home?**
 >The place where people spend most of their time at home can vary depending on their lifestyle and preferences. For some people, it may be the living room or family room, where they spend time relaxing, watching TV, or spending time with family. For others, it may be the kitchen or dining room, where they spend time cooking and eating meals. Some people may also spend a lot of time in their bedroom, either sleeping or engaging in other activities.
 
-**5. Do you think there should be classes for training young people and children 
-how to relax?**
+**5. Do you think there should be classes for training young people and children how to relax?**
 >Yes, I believe that there should be classes for training young people and children how to relax. Learning how to relax and manage stress is an important life skill that can have numerous benefits for mental and physical health. Additionally, teaching children how to relax can help to set them up for success in their future academic and professional pursuits, as it can help to improve focus, concentration, and productivity.
 
 ## 他城的短暂停留
@@ -844,6 +810,7 @@ Where it is
 When you went there
 What you did there
 And explain how you felt about this place
+
 >I had the opportunity to visit the famous Bird's Nest Stadium in Beijing, China. I went there during the summer of 2019 when I attended a sports management conference. The stadium was built for the 2008 Summer Olympics and is one of the most iconic sports venues in the world. During my visit, I took a tour of the stadium, learned about its history and design, and even got to stand on the field. I felt incredibly impressed by the grandeur of the stadium and the level of attention to detail in its architecture and engineering.
 
 >One popular place for sports that comes to mind in China is the Beijing National Stadium, also known as the "Bird's Nest". It is located in the Chaoyang District of Beijing and was built for the 2008 Summer Olympics. I went there during the summer of 2015, it is a well-known and iconic landmark in China.
@@ -1305,11 +1272,11 @@ Pretend that you are a PhD student, majoring in management science and engineeri
 3. Why are people so keen on buying iPhones even though they haven't 
 changed much from one iPhone to the next?
 
-Currently, people use a wide range of technology, including smartphones, laptops, tablets, smartwatches, smart TVs, and various other digital devices. Technology has advanced rapidly over the past few decades, and people now rely on technology to perform a wide range of tasks, from communication to entertainment to work-related activities.
+>Currently, people use a wide range of technology, including smartphones, laptops, tablets, smartwatches, smart TVs, and various other digital devices. Technology has advanced rapidly over the past few decades, and people now rely on technology to perform a wide range of tasks, from communication to entertainment to work-related activities.
 
-Big companies introduce new products frequently for various reasons. One reason is to stay competitive in the market and meet the evolving needs and preferences of consumers. Another reason is to increase revenue and profits by introducing new and innovative products that can capture new markets or replace existing products. Additionally, introducing new products can help companies to enhance their brand image and reputation by demonstrating their ability to innovate and adapt to changing market conditions.
+>Big companies introduce new products frequently for various reasons. One reason is to stay competitive in the market and meet the evolving needs and preferences of consumers. Another reason is to increase revenue and profits by introducing new and innovative products that can capture new markets or replace existing products. Additionally, introducing new products can help companies to enhance their brand image and reputation by demonstrating their ability to innovate and adapt to changing market conditions.
 
-People are keen on buying iPhones even though they haven't changed much from one iPhone to the next because of several reasons. Firstly, Apple has a strong brand image and reputation for producing high-quality products that are reliable, durable, and user-friendly. Secondly, iPhones are known for their unique design and features, such as the iOS operating system, the camera, and the user interface. Finally, Apple has a large and loyal customer base that is willing to pay a premium price for their products, and many people consider owning an iPhone as a status symbol or a way of demonstrating their personal style and taste.
+>People are keen on buying iPhones even though they haven't changed much from one iPhone to the next because of several reasons. Firstly, Apple has a strong brand image and reputation for producing high-quality products that are reliable, durable, and user-friendly. Secondly, iPhones are known for their unique design and features, such as the iOS operating system, the camera, and the user interface. Finally, Apple has a large and loyal customer base that is willing to pay a premium price for their products, and many people consider owning an iPhone as a status symbol or a way of demonstrating their personal style and taste.
 
 ## 不喜欢的广告
 Describe an advertisement you don't like
@@ -1318,9 +1285,9 @@ Where and when you first saw it
 What type of advertisement it is
 What product or service it advertises
 And explain why you don't like it
-I first saw this advertisement on social media a few weeks ago. It is a video advertisement that features a young woman who claims to have lost a significant amount of weight in a short period of time with the help of a particular weight loss product. The advertisement promotes a weight loss supplement that promises quick results without any exercise or dieting.
+>I first saw this advertisement on social media a few weeks ago. It is a video advertisement that features a young woman who claims to have lost a significant amount of weight in a short period of time with the help of a particular weight loss product. The advertisement promotes a weight loss supplement that promises quick results without any exercise or dieting.
 
-I don't like this advertisement because I believe that it promotes an unhealthy and unrealistic approach to weight loss. Losing weight is a complex process that involves a combination of factors such as exercise, diet, and lifestyle changes. Quick-fix solutions that promise rapid weight loss without any effort are often not sustainable and can have harmful side effects. Furthermore, the advertisement seems to exploit people's insecurities and suggests that they can achieve their desired body shape without making any real changes to their lifestyle. Overall, I think that this type of advertisement sets unrealistic expectations and can be potentially harmful to people's physical and mental health.
+>I don't like this advertisement because I believe that it promotes an unhealthy and unrealistic approach to weight loss. Losing weight is a complex process that involves a combination of factors such as exercise, diet, and lifestyle changes. Quick-fix solutions that promise rapid weight loss without any effort are often not sustainable and can have harmful side effects. Furthermore, the advertisement seems to exploit people's insecurities and suggests that they can achieve their desired body shape without making any real changes to their lifestyle. Overall, I think that this type of advertisement sets unrealistic expectations and can be potentially harmful to people's physical and mental health.
 
 ## 常用网站
 Describe a website you often visit
@@ -1330,9 +1297,9 @@ How you found out about it
 How often you visit it
 And explain why you often visit it
 
-As a PhD student majoring in management science and engineering, I often visit the website of the Institute for Operations Research and the Management Sciences (INFORMS), which is a professional organization for academics and practitioners in the fields of operations research, management science, and analytics. I first found out about this website when I was doing research for a paper on optimization techniques, and I came across several articles and papers published by INFORMS that were highly relevant to my research.
+>I often visit the website of the Institute for Operations Research and the Management Sciences (INFORMS), which is a professional organization for academics and practitioners in the fields of operations research, management science, and analytics. I first found out about this website when I was doing research for a paper on optimization techniques, and I came across several articles and papers published by INFORMS that were highly relevant to my research.
 
-Since then, I have been visiting the website regularly, usually once or twice a week, to stay up to date with the latest research and trends in my field. The website provides access to a wealth of resources, including academic journals, conference proceedings, job postings, and news articles. I find the website to be a valuable source of information for my research and professional development, and it has helped me to stay connected with other researchers and practitioners in my field. Overall, I highly recommend the INFORMS website to anyone who is interested in operations research, management science, or analytics.
+>Since then, I have been visiting the website regularly, usually once or twice a week, to stay up to date with the latest research and trends in my field. The website provides access to a wealth of resources, including academic journals, conference proceedings, job postings, and news articles. I find the website to be a valuable source of information for my research and professional development, and it has helped me to stay connected with other researchers and practitioners in my field. Overall, I highly recommend the INFORMS website to anyone who is interested in operations research, management science, or analytics.
 
 # P2/3 物品类 保留题
 
@@ -1344,7 +1311,7 @@ What the story or novel was about
 Who wrote it
 And explain why you read it
 
-a popular novel in the field of management science and engineering that many people find interesting, which is "The Lean Startup" by Eric Ries. The book was published in 2011 and has been a bestseller ever since. It is about building successful startups using the lean startup methodology, which emphasizes the importance of rapid prototyping, continuous testing, and customer feedback to create a sustainable business model. Eric Ries is a successful entrepreneur and software engineer who has worked with several startups in Silicon Valley. He wrote this book to share his experience and insights with other entrepreneurs who are struggling to build a successful business. If you are a management science and engineering student interested in entrepreneurship, "The Lean Startup" is a must-read book for you.
+>a popular novel in the field of management science and engineering that many people find interesting, which is "The Lean Startup" by Eric Ries. The book was published in 2011 and has been a bestseller ever since. It is about building successful startups using the lean startup methodology, which emphasizes the importance of rapid prototyping, continuous testing, and customer feedback to create a sustainable business model. Eric Ries is a successful entrepreneur and software engineer who has worked with several startups in Silicon Valley. He wrote this book to share his experience and insights with other entrepreneurs who are struggling to build a successful business. If you are a management science and engineering student interested in entrepreneurship, "The Lean Startup" is a must-read book for you.
 
 ## 喜欢看的电影
 Describe a movie you watched recently and would like to watch again
@@ -1354,11 +1321,11 @@ What it was about
 Where you watched it
 And explain why you would like to watch it again
 
-Recently, I watched a Chinese movie called "Better Days". It's a drama film that deals with themes of bullying, friendship, and the importance of education. The movie is set in modern-day China and follows the story of a high school student who becomes the target of bullying. She meets a street thug who helps her stand up to her bullies, and together they form a bond that helps them both overcome their troubled pasts.
+>Recently, I watched a Chinese movie called "Better Days". It's a drama film that deals with themes of bullying, friendship, and the importance of education. The movie is set in modern-day China and follows the story of a high school student who becomes the target of bullying. She meets a street thug who helps her stand up to her bullies, and together they form a bond that helps them both overcome their troubled pasts.
 
-I watched "Better Days" at a local cinema in Beijing. The film received critical acclaim in China and was praised for its strong performances, emotional depth, and realistic portrayal of the challenges faced by Chinese youth today.
+>I watched "Better Days" at a local cinema in Beijing. The film received critical acclaim in China and was praised for its strong performances, emotional depth, and realistic portrayal of the challenges faced by Chinese youth today.
 
-I would love to watch "Better Days" again because of its powerful storytelling and themes that resonate with many young people around the world. The movie highlights the issue of bullying and its impact on mental health, which is a critical issue facing many students in today's society. The movie also explores the importance of education and how it can provide a way out of difficult situations. The performances of the lead actors are outstanding, and their chemistry on screen is captivating. Overall, "Better Days" is a thought-provoking and emotionally compelling film that I would highly recommend to anyone who enjoys great storytelling and meaningful themes.
+>I would love to watch "Better Days" again because of its powerful storytelling and themes that resonate with many young people around the world. The movie highlights the issue of bullying and its impact on mental health, which is a critical issue facing many students in today's society. The movie also explores the importance of education and how it can provide a way out of difficult situations. The performances of the lead actors are outstanding, and their chemistry on screen is captivating. Overall, "Better Days" is a thought-provoking and emotionally compelling film that I would highly recommend to anyone who enjoys great storytelling and meaningful themes.
 
 ## 喜欢的节目
 Describe a program you like to watch
@@ -1368,11 +1335,11 @@ What it is about
 Who you watch it with
 And explain why you like to watch it
 
-One popular program in China that many people enjoy watching is called "The Voice of China." This program is a singing competition show where **contestants** showcase their singing abilities in front of a panel of judges and a live audience. The judges listen to the performances without seeing the contestants, and if they like what they hear, they turn their chairs around to show their interest in working with the singer.
+>One popular program in China that many people enjoy watching is called "The Voice of China." This program is a singing competition show where **contestants** showcase their singing abilities in front of a panel of judges and a live audience. The judges listen to the performances without seeing the contestants, and if they like what they hear, they turn their chairs around to show their interest in working with the singer.
 
-Viewers often watch this program with their family and friends, as it's a fun and exciting way to spend time together. Many people enjoy seeing the talented singers compete and **watching the judges' reactions to the performances**.
+>Viewers often watch this program with their family and friends, as it's a fun and exciting way to spend time together. Many people enjoy seeing the talented singers compete and **watching the judges' reactions to the performances**.
 
-The reason why "The Voice of China" is so popular is that it provides a platform for talented singers to showcase their skills to a wide audience. It's also a great way for viewers to discover new music and enjoy the performances. The competition aspect of the show also adds to the excitement, as viewers can root for their favorite contestants and see who will come out on top. Overall, "The Voice of China" is a fun and entertaining program that many people in China enjoy watching.
+>The reason why "The Voice of China" is so popular is that it provides a platform for talented singers to showcase their skills to a wide audience. It's also a great way for viewers to discover new music and enjoy the performances. The competition aspect of the show also adds to the excitement, as viewers can root for their favorite contestants and see who will come out on top. Overall, "The Voice of China" is a fun and entertaining program that many people in China enjoy watching.
 
 ## 分享
 Describe something you had to share with others
@@ -1396,9 +1363,9 @@ Where you saw it
 What it looks like
 And explain why you think it is beautiful
 
-As a PhD student majoring in management science and engineering, I would like to describe an iPad that I find particularly beautiful. This iPad is the 2021 iPad Pro, which I saw on display at the Apple Store in my local shopping mall. What sets this iPad apart from its predecessors is its sleek and modern design. The edges of the device are flat, and the back is made of glass, which gives it a premium feel. The 11-inch liquid retina display is simply stunning, with vivid colors and sharp details that make it a pleasure to look at. The device is also incredibly thin and lightweight, making it easy to carry around with me wherever I go.
+>I would like to describe an iPad that I find particularly beautiful. This iPad is the 2021 iPad Pro, which I saw on display at the Apple Store in my local shopping mall. What sets this iPad apart from its predecessors is its sleek and modern design. The edges of the device are flat, and the back is made of glass, which gives it a premium feel. The 11-inch liquid retina display is simply stunning, with vivid colors and sharp details that make it a pleasure to look at. The device is also incredibly thin and lightweight, making it easy to carry around with me wherever I go.
 
-Overall, I find this iPad to be beautiful for a number of reasons. Firstly, its design is both functional and aesthetically pleasing, with a minimalist look that is sure to turn heads. Additionally, the iPad Pro's large and immersive display provides an unparalleled viewing experience that makes it perfect for streaming movies, playing games, or getting work done. Finally, the iPad Pro is a great example of how Apple is able to incorporate cutting-edge technology into a device that is both beautiful and functional. All of these factors make the iPad Pro a truly beautiful device that I would love to own.
+>Overall, I find this iPad to be beautiful for a number of reasons. Firstly, its design is both functional and aesthetically pleasing, with a minimalist look that is sure to turn heads. Additionally, the iPad Pro's large and immersive display provides an unparalleled viewing experience that makes it perfect for streaming movies, playing games, or getting work done. Finally, the iPad Pro is a great example of how Apple is able to incorporate cutting-edge technology into a device that is both beautiful and functional. All of these factors make the iPad Pro a truly beautiful device that I would love to own.
 
 ## 糟糕购物
 Describe a problem you had while shopping online or in a store
@@ -1408,9 +1375,9 @@ What you bought
 What problem you had
 And explain how you felt about the experience
 
-One problem I had while shopping online was with a recent purchase of a laptop. I had researched various options and finally found the model I wanted on an e-commerce website. However, when the laptop arrived, it was not the same one that was advertised on the website. The specifications were different, and the laptop was of a lower quality than what I had paid for.
+>One problem I had while shopping online was with a recent purchase of a laptop. I had researched various options and finally found the model I wanted on an e-commerce website. However, when the laptop arrived, it was not the same one that was advertised on the website. The specifications were different, and the laptop was of a lower quality than what I had paid for.
 
-I was frustrated and disappointed with this experience. I had spent a lot of time researching and choosing the laptop, and it was disappointing to receive a different product. I contacted the customer service department of the website, and after a long discussion, they agreed to provide a refund for the laptop. Overall, the experience was frustrating, and it made me more cautious about purchasing items online, especially expensive ones.
+>I was frustrated and disappointed with this experience. I had spent a lot of time researching and choosing the laptop, and it was disappointing to receive a different product. I contacted the customer service department of the website, and after a long discussion, they agreed to provide a refund for the laptop. Overall, the experience was frustrating, and it made me more cautious about purchasing items online, especially expensive ones.
 
 ## 让你自豪的照片
 Describe a photo you took that you are proud of
@@ -1420,11 +1387,11 @@ Where you took it
 What is in this photo
 And explain why you are proud of it
 
-One of the photos I am particularly proud of was taken during my trip to Japan last year. It was a snapshot of the iconic Tokyo Tower, which I took while standing at the observation deck of the Mori Tower in Roppongi Hills. The photo captured the Tower in all its glory, illuminated by the vibrant colors of the city at night, with a stunning view of the city skyline in the background.
+>One of the photos I am particularly proud of was taken during my trip to Japan last year. It was a snapshot of the iconic Tokyo Tower, which I took while standing at the observation deck of the Mori Tower in Roppongi Hills. The photo captured the Tower in all its glory, illuminated by the vibrant colors of the city at night, with a stunning view of the city skyline in the background.
 
-I am particularly proud of this photo for a couple of reasons. Firstly, it was a difficult shot to capture, as I had to adjust the camera settings to get the perfect exposure in low-light conditions. Secondly, the composition of the photo is just right, with the Tokyo Tower standing tall in the center of the frame, and the skyline providing a stunning backdrop.
+>I am particularly proud of this photo for a couple of reasons. Firstly, it was a difficult shot to capture, as I had to adjust the camera settings to get the perfect exposure in low-light conditions. Secondly, the composition of the photo is just right, with the Tokyo Tower standing tall in the center of the frame, and the skyline providing a stunning backdrop.
 
-Finally, this photo holds a special place in my heart, as it serves as a reminder of the amazing experience I had in Japan. The country is known for its unique blend of ancient traditions and modern innovations, and this photo perfectly captures that spirit.
+>Finally, this photo holds a special place in my heart, as it serves as a reminder of the amazing experience I had in Japan. The country is known for its unique blend of ancient traditions and modern innovations, and this photo perfectly captures that spirit.
 
 # P2/3 事件类 新题
 
@@ -1437,15 +1404,15 @@ Where you would like to learn it
 Why you would like to learn it 
 And explain whether it's difficult to learn it
 
-As a PhD student majoring in management science and engineering, I am always interested in learning about new technologies and how they can be applied to solve complex problems. One thing that I would like to learn in the future is machine learning. I would like to learn how to build and train machine learning models that can help businesses make more informed decisions.
+>I am always interested in learning about new technologies and how they can be applied to solve complex problems. One thing that I would like to learn in the future is machine learning. I would like to learn how to build and train machine learning models that can help businesses make more informed decisions.
 
-I would like to learn machine learning through a combination of online courses, textbooks, and hands-on projects. There are many online resources available that provide a comprehensive introduction to machine learning, and I would also like to take a course at my university to supplement my learning. Additionally, I would like to work on practical projects to apply my knowledge and gain experience.
+>I would like to learn machine learning through a combination of online courses, textbooks, and hands-on projects. There are many online resources available that provide a comprehensive introduction to machine learning, and I would also like to take a course at my university to supplement my learning. Additionally, I would like to work on practical projects to apply my knowledge and gain experience.
 
-I would like to learn machine learning both at home and at my university. At home, I can use online resources to study and work on projects, while at my university, I can take courses and collaborate with other students who share my interest in the topic.
+>I would like to learn machine learning both at home and at my university. At home, I can use online resources to study and work on projects, while at my university, I can take courses and collaborate with other students who share my interest in the topic.
 
-I would like to learn machine learning because I believe it has the potential to revolutionize many industries, including healthcare, finance, and transportation. By understanding how to build and train machine learning models, I can help businesses improve their decision-making processes and ultimately make a positive impact on society.
+>I would like to learn machine learning because I believe it has the potential to revolutionize many industries, including healthcare, finance, and transportation. By understanding how to build and train machine learning models, I can help businesses improve their decision-making processes and ultimately make a positive impact on society.
 
-Learning machine learning is a challenging task, but I believe it is possible with dedication and hard work. It requires a solid foundation in mathematics, statistics, and computer science, as well as the ability to think critically and creatively. However, with the right resources and guidance, I am confident that I can master this exciting field.
+>Learning machine learning is a challenging task, but I believe it is possible with dedication and hard work. It requires a solid foundation in mathematics, statistics, and computer science, as well as the ability to think critically and creatively. However, with the right resources and guidance, I am confident that I can master this exciting field.
 
 ## 让你骄傲的事
 Describe something you did that made you feel proud
@@ -1456,11 +1423,11 @@ What difficulty you had
 How you dealt with the difficulty 
 And explain why you felt proud of i
 
-One of the accomplishments that made me feel proud was successfully leading a team project on optimizing a manufacturing process for a local company. The project involved collecting data, analyzing it, and implementing recommendations to improve efficiency and reduce waste in the production line. As a team leader, I faced several difficulties, such as conflicting opinions among team members and limited resources.
+>One of the accomplishments that made me feel proud was successfully leading a team project on optimizing a manufacturing process for a local company. The project involved collecting data, analyzing it, and implementing recommendations to improve efficiency and reduce waste in the production line. As a team leader, I faced several difficulties, such as conflicting opinions among team members and limited resources.
 
-To overcome these challenges, I utilized my problem-solving skills, communication abilities, and leadership qualities to facilitate discussions and reach consensus. I encouraged active participation from all team members and allocated tasks based on their strengths and interests. Additionally, I maintained constant communication with the client to ensure their expectations were met and provided regular updates on the project progress.
+>To overcome these challenges, I utilized my problem-solving skills, communication abilities, and leadership qualities to facilitate discussions and reach consensus. I encouraged active participation from all team members and allocated tasks based on their strengths and interests. Additionally, I maintained constant communication with the client to ensure their expectations were met and provided regular updates on the project progress.
 
-I felt proud of this achievement because it not only demonstrated my technical knowledge and project management skills but also helped the company increase its profitability and sustainability. Furthermore, the positive feedback from the client and team members reaffirmed the value of teamwork and effective communication in achieving goals.
+>I felt proud of this achievement because it not only demonstrated my technical knowledge and project management skills but also helped the company increase its profitability and sustainability. Furthermore, the positive feedback from the client and team members reaffirmed the value of teamwork and effective communication in achieving goals.
 
 ## 喜欢做的日常事务
 Describe a daily routine that you enjoy
@@ -1470,13 +1437,13 @@ Where and when you do it
 Who you do it with 
 And explain why you enjoy it
 
-As a PhD student in management science and engineering, my daily routine can be quite demanding and stressful. However, one routine that I thoroughly enjoy is my morning exercise routine. Every day, I wake up at 6:00 am and head to a nearby park for a brisk walk or jog. I usually go alone and use the time to clear my mind, listen to music or a podcast, and enjoy the fresh air.
+>As a PhD student in management science and engineering, my daily routine can be quite demanding and stressful. However, one routine that I thoroughly enjoy is my morning exercise routine. Every day, I wake up at 6:00 am and head to a nearby park for a brisk walk or jog. I usually go alone and use the time to clear my mind, listen to music or a podcast, and enjoy the fresh air.
 
-I find this routine to be extremely beneficial for both my physical and mental health. Starting my day with exercise helps me feel energized and focused, which is essential for tackling the tasks ahead. Moreover, being surrounded by nature and the peaceful atmosphere of the park helps me relieve stress and anxiety.
+>I find this routine to be extremely beneficial for both my physical and mental health. Starting my day with exercise helps me feel energized and focused, which is essential for tackling the tasks ahead. Moreover, being surrounded by nature and the peaceful atmosphere of the park helps me relieve stress and anxiety.
 
-In addition, I enjoy this routine because it allows me to set aside some time for myself before the busy day begins. As a PhD student, my schedule can be quite hectic, so having this quiet time in the morning helps me prioritize my needs and sets a positive tone for the rest of the day.
+>In addition, I enjoy this routine because it allows me to set aside some time for myself before the busy day begins. As a PhD student, my schedule can be quite hectic, so having this quiet time in the morning helps me prioritize my needs and sets a positive tone for the rest of the day.
 
-Overall, I find that my morning exercise routine is a great way to take care of myself, both physically and mentally, and start the day on a positive note.
+>Overall, I find that my morning exercise routine is a great way to take care of myself, both physically and mentally, and start the day on a positive note.
 
 ## 投诉
 Describe a complaint that you made and you were satisfied with the result
@@ -1486,7 +1453,7 @@ Who you complained to
 What you complained about
 And explain why you were satisfied with the result
 
-As a PhD student majoring in management science and engineering, I once had an unpleasant experience with a course instructor. The instructor was consistently late for class and didn't provide detailed feedback on assignments, which made it difficult for me to improve my performance. I decided to address this issue and spoke to the department head to express my concerns. The department head was receptive to my complaint and took prompt action by having a conversation with the instructor about the issues I had raised. The instructor was able to improve their punctuality and started providing more detailed feedback on assignments, which made a significant difference in my learning experience. I was satisfied with the result because the department head took my complaint seriously and took swift action to address the issue, which ultimately led to a better learning environment for me and my classmates.
+>I once had an unpleasant experience with a course instructor. The instructor was consistently late for class and didn't provide detailed feedback on assignments, which made it difficult for me to improve my performance. I decided to address this issue and spoke to the department head to express my concerns. The department head was receptive to my complaint and took prompt action by having a conversation with the instructor about the issues I had raised. The instructor was able to improve their punctuality and started providing more detailed feedback on assignments, which made a significant difference in my learning experience. I was satisfied with the result because the department head took my complaint seriously and took swift action to address the issue, which ultimately led to a better learning environment for me and my classmates.
 
 ## 迟到
 Describe a time when you missed or were late for an important meeting/event
@@ -1496,9 +1463,9 @@ What happened
 Why you missed/were late for it
 And explain how you felt about this experience
 
-There was a time when I missed an important meeting with my professor, which was scheduled for 9:00 AM on a Monday morning. Unfortunately, I had underestimated the amount of time it would take me to get to the campus from my apartment, and I ended up running late. Additionally, I had received an urgent email from my supervisor, which required my immediate attention, and I got sidetracked with it, causing me to lose track of time. When I finally arrived at the meeting, it had already ended, and my professor had left.
+>There was a time when I missed an important meeting with my professor, which was scheduled for 9:00 AM on a Monday morning. Unfortunately, I had underestimated the amount of time it would take me to get to the campus from my apartment, and I ended up running late. Additionally, I had received an urgent email from my supervisor, which required my immediate attention, and I got sidetracked with it, causing me to lose track of time. When I finally arrived at the meeting, it had already ended, and my professor had left.
 
-I felt terrible about the situation. I knew that the meeting was essential to my academic progress, and missing it had consequences. I was disappointed with myself for letting my procrastination and poor time management skills get in the way of my academic goals. I realized that I needed to take responsibility for my actions and make sure that I was better organized and focused in the future. Overall, this experience taught me a valuable lesson in prioritization and time management, which helped me become more productive and efficient in my academic pursuits.
+>I felt terrible about the situation. I knew that the meeting was essential to my academic progress, and missing it had consequences. I was disappointed with myself for letting my procrastination and poor time management skills get in the way of my academic goals. I realized that I needed to take responsibility for my actions and make sure that I was better organized and focused in the future. Overall, this experience taught me a valuable lesson in prioritization and time management, which helped me become more productive and efficient in my academic pursuits.
 
 ## 好消息（你熟人的事）
 Describe a piece of good news that you heard about someone you know well
@@ -1508,9 +1475,9 @@ When you heard it
 How you knew it
 And explain how you felt about it
 
-One piece of good news that I recently heard was from my close friend who had just received a job offer from a well-known technology company. I heard about it last week when she called me to share the exciting news. I knew that she had been searching for a job in her field for several months and had been feeling discouraged by the lack of opportunities. However, she persevered, continued to apply to various companies, and finally landed the job she had been hoping for.
+>One piece of good news that I recently heard was from my close friend who had just received a job offer from a well-known technology company. I heard about it last week when she called me to share the exciting news. I knew that she had been searching for a job in her field for several months and had been feeling discouraged by the lack of opportunities. However, she persevered, continued to apply to various companies, and finally landed the job she had been hoping for.
 
-I was overjoyed to hear about her success and felt proud of her perseverance and hard work. It is always great to hear when your loved ones achieve their goals and realize their dreams. I congratulated her and told her how proud I was of her. Her good news also reminded me that hard work and determination pay off in the end, and that success is always possible if you remain persistent and focused.
+>I was overjoyed to hear about her success and felt proud of her perseverance and hard work. It is always great to hear when your loved ones achieve their goals and realize their dreams. I congratulated her and told her how proud I was of her. Her good news also reminded me that hard work and determination pay off in the end, and that success is always possible if you remain persistent and focused.
 
 ## 童年喜欢的活动
 Describe an activity you enjoyed in your free time when you were young
@@ -1520,7 +1487,7 @@ Where you did it
 Who you did it with 
 And explain why you enjoyed it
 
-When I was young, I enjoyed playing table games with my friends during my free time. The most popular game we played was Monopoly, which is a board game where players buy, sell and trade properties with the goal of becoming the wealthiest player. We would usually play this game at one of our houses, but sometimes we would go to a local coffee shop or game center to play. I played this game with my close friends and sometimes with my family members. I enjoyed playing this game because it allowed me to bond with my friends and family members while also testing my strategic and financial skills. It was always exciting to see who would come out on top as the wealthiest player, and it was a fun way to pass the time during our free periods. Overall, playing table games such as Monopoly was a great way to have fun and build lasting relationships with those around me.
+>When I was young, I enjoyed playing table games with my friends during my free time. The most popular game we played was Monopoly, which is a board game where players buy, sell and trade properties with the goal of becoming the wealthiest player. We would usually play this game at one of our houses, but sometimes we would go to a local coffee shop or game center to play. I played this game with my close friends and sometimes with my family members. I enjoyed playing this game because it allowed me to bond with my friends and family members while also testing my strategic and financial skills. It was always exciting to see who would come out on top as the wealthiest player, and it was a fun way to pass the time during our free periods. Overall, playing table games such as Monopoly was a great way to have fun and build lasting relationships with those around me.
 
 ## 开学第一天
 Describe your first day at school that you remember
@@ -1530,7 +1497,7 @@ How you went there
 What happened that day
 And how you felt on that day
 
-I recall my first day at school in China. The school was located in the city center of Beijing, where I was born and raised. I remember feeling excited and nervous as I made my way to school with my parents. We took a taxi to the school, which was about 30 minutes away from our home. As we arrived, I saw a sea of unfamiliar faces and felt overwhelmed. I was introduced to my teacher and classmates, who welcomed me warmly. We spent the day getting to know each other and learning about the classroom rules and procedures. Although I felt anxious at first, I soon found myself enjoying the company of my new friends and felt happy to be a part of the school community. Overall, my first day at school in China was a memorable experience, one that I will always cherish.
+>I recall my first day at school in China. The school was located in the city center of Beijing, where I was born and raised. I remember feeling excited and nervous as I made my way to school with my parents. We took a taxi to the school, which was about 30 minutes away from our home. As we arrived, I saw a sea of unfamiliar faces and felt overwhelmed. I was introduced to my teacher and classmates, who welcomed me warmly. We spent the day getting to know each other and learning about the classroom rules and procedures. Although I felt anxious at first, I soon found myself enjoying the company of my new friends and felt happy to be a part of the school community. Overall, my first day at school in China was a memorable experience, one that I will always cherish.
 
 ## 和别人一起做的事
 Describe something that you did with someone/a group of people
@@ -1540,11 +1507,11 @@ Who you did it with
 How long it took you to do this 
 And explain why you did it together
 
-As a PhD student majoring in Management Science and Engineering, I often work collaboratively with my peers on various projects. One of the recent projects that I did with a group of people was the development of a simulation model to optimize the supply chain of a manufacturing company. We worked together for about three weeks to complete the project, with each member contributing their unique expertise and skills.
+>I often work collaboratively with my peers on various projects. One of the recent projects that I did with a group of people was the development of a simulation model to optimize the supply chain of a manufacturing company. We worked together for about three weeks to complete the project, with each member contributing their unique expertise and skills.
 
-I worked with three other PhD students who had backgrounds in Operations Research, Industrial Engineering, and Computer Science. We divided the work based on our strengths and collaborated closely to integrate our individual components into a comprehensive model. We held regular meetings to discuss our progress, identify challenges, and brainstorm solutions. It was a challenging project, but working together helped us overcome obstacles and produce a high-quality simulation model.
+>I worked with three other PhD students who had backgrounds in Operations Research, Industrial Engineering, and Computer Science. We divided the work based on our strengths and collaborated closely to integrate our individual components into a comprehensive model. We held regular meetings to discuss our progress, identify challenges, and brainstorm solutions. It was a challenging project, but working together helped us overcome obstacles and produce a high-quality simulation model.
 
-We did this project together because we recognized the benefits of collaboration. By working together, we could leverage each other's strengths, learn from each other's perspectives, and produce better outcomes than we could have individually. Additionally, by working on a project that was relevant to our field of study, we could apply the concepts we learned in our coursework to a real-world problem, which was rewarding and exciting.
+>We did this project together because we recognized the benefits of collaboration. By working together, we could leverage each other's strengths, learn from each other's perspectives, and produce better outcomes than we could have individually. Additionally, by working on a project that was relevant to our field of study, we could apply the concepts we learned in our coursework to a real-world problem, which was rewarding and exciting.
 
 ## 历史时期
 Describe a historical period/moment you would like to learn more about
@@ -1555,13 +1522,13 @@ When it happened
 What you know about it
 And why you would like to learn more
 
-This dynasty is widely regarded as a golden age of Chinese civilization, marked by remarkable achievements in literature, art, science, and technology. The Tang Dynasty lasted from 618 to 907 CE, and it was a period of significant economic growth and cultural exchange, particularly with neighboring countries such as Japan and Korea.
+>This dynasty is widely regarded as a golden age of Chinese civilization, marked by remarkable achievements in literature, art, science, and technology. The Tang Dynasty lasted from 618 to 907 CE, and it was a period of significant economic growth and cultural exchange, particularly with neighboring countries such as Japan and Korea.
 
-I am particularly interested in the Tang Dynasty because of its innovative approach to governance, which relied on a merit-based system to select government officials. This system enabled talented individuals to rise to positions of power based on their abilities, rather than their social status or family connections. I believe that studying the Tang Dynasty's governance structure could provide valuable insights into how modern-day organizations can foster innovation, diversity, and social mobility.
+>I am particularly interested in the Tang Dynasty because of its innovative approach to governance, which relied on a merit-based system to select government officials. This system enabled talented individuals to rise to positions of power based on their abilities, rather than their social status or family connections. I believe that studying the Tang Dynasty's governance structure could provide valuable insights into how modern-day organizations can foster innovation, diversity, and social mobility.
 
-Furthermore, I am fascinated by the Tang Dynasty's contributions to fields such as astronomy, mathematics, and medicine. For example, during this period, Chinese scholars made significant advances in celestial observation, which led to the development of accurate calendars and navigation tools. The Tang Dynasty also saw the emergence of groundbreaking medical texts, such as the "Compendium of Materia Medica," which remains a key reference for herbal medicine to this day.
+>Furthermore, I am fascinated by the Tang Dynasty's contributions to fields such as astronomy, mathematics, and medicine. For example, during this period, Chinese scholars made significant advances in celestial observation, which led to the development of accurate calendars and navigation tools. The Tang Dynasty also saw the emergence of groundbreaking medical texts, such as the "Compendium of Materia Medica," which remains a key reference for herbal medicine to this day.
 
-Overall, I am eager to learn more about the Tang Dynasty's cultural and intellectual achievements, as well as its political and economic systems. By studying this fascinating period in China's history, I hope to gain a deeper understanding of the country's rich cultural heritage and its enduring impact on the world.
+>Overall, I am eager to learn more about the Tang Dynasty's cultural and intellectual achievements, as well as its political and economic systems. By studying this fascinating period in China's history, I hope to gain a deeper understanding of the country's rich cultural heritage and its enduring impact on the world.
 
 **1. Should everyone know history?**
 **2. In what ways can children learn history?**
@@ -1580,13 +1547,13 @@ Why there was a lot of plastic waste
 What you did after you saw them
 And explain what your thoughts were about this
 
-I had the opportunity to visit the beautiful beach of Xiamen during one of my research trips. However, during my visit, I was shocked to see a significant amount of plastic waste scattered all over the beach. The sight was disheartening, and I couldn't help but wonder why there was so much plastic waste in such a beautiful place.
+>I had the opportunity to visit the beautiful beach of Xiamen during one of my research trips. However, during my visit, I was shocked to see a significant amount of plastic waste scattered all over the beach. The sight was disheartening, and I couldn't help but wonder why there was so much plastic waste in such a beautiful place.
 
-I soon realized that the beach of Xiamen is a popular tourist destination, and the lack of proper waste management facilities in the area was likely the reason for the high amount of plastic waste. It was evident that many of the tourists visiting the beach were not disposing of their waste properly.
+>I soon realized that the beach of Xiamen is a popular tourist destination, and the lack of proper waste management facilities in the area was likely the reason for the high amount of plastic waste. It was evident that many of the tourists visiting the beach were not disposing of their waste properly.
 
-After witnessing this, I decided to take some action. I gathered some of the plastic waste I could find and disposed of it properly in a nearby bin. However, it was only a drop in the ocean compared to the magnitude of the problem.
+>After witnessing this, I decided to take some action. I gathered some of the plastic waste I could find and disposed of it properly in a nearby bin. However, it was only a drop in the ocean compared to the magnitude of the problem.
 
-This experience made me realize how important it is to raise awareness about plastic waste and the impact it has on our environment. It also made me appreciate the importance of proper waste management systems and the need to implement them in popular tourist destinations like Xiamen. Overall, I hope that we can all work together to reduce plastic waste and protect our environment for future generations.
+>This experience made me realize how important it is to raise awareness about plastic waste and the impact it has on our environment. It also made me appreciate the importance of proper waste management systems and the need to implement them in popular tourist destinations like Xiamen. Overall, I hope that we can all work together to reduce plastic waste and protect our environment for future generations.
 
 ## 克服困难终成功
 Describe a time when you overcame difficulties in doing something and succeeded
@@ -1612,20 +1579,16 @@ And explain why it was important
 
 >One of the most important things I have learned outside of school is the power of networking. I learned this lesson during my summer internship at a startup in Silicon Valley. During my time there, I had the opportunity to attend several networking events and meet people from various industries. I learned how to make connections, build relationships, and leverage them to create opportunities for myself and others. I also learned the importance of maintaining and nurturing these relationships over time.
 
-I learned this skill through observation and practice. I observed my colleagues and mentors as they interacted with people and networked, and I tried to emulate their behaviors. I also took every opportunity to attend events, meet new people, and follow up with them afterwards.
+>I learned this skill through observation and practice. I observed my colleagues and mentors as they interacted with people and networked, and I tried to emulate their behaviors. I also took every opportunity to attend events, meet new people, and follow up with them afterwards.
 
-Networking has been crucial to my personal and professional growth. It has opened up new opportunities, helped me learn about different industries and career paths, and allowed me to build a strong support system of mentors and colleagues. I believe that networking is a valuable skill that everyone should learn, regardless of their field or career path.
+>Networking has been crucial to my personal and professional growth. It has opened up new opportunities, helped me learn about different industries and career paths, and allowed me to build a strong support system of mentors and colleagues. I believe that networking is a valuable skill that everyone should learn, regardless of their field or career path.
 
 ## 收钱
 Describe a time when you received money as a gift
-
 You should say:
 When it happened
-
 Who gave you money
-
 Why he/she gave you money
-
 And explain how you used the money
 
 >I remember a time when I received money as a gift was on my 25th birthday from my grandmother. She gave me a generous amount of money as a way to celebrate my birthday and to show her love and appreciation for me. The reason behind this gesture was to give me the freedom to spend the money on whatever I wanted, either something that I needed or something that I desired. I felt grateful for her gift and decided to use the money to pay for a language course that I had been wanting to take for some time. I believed that this investment would help me to improve my language skills, which would be useful in my future academic and professional endeavors. In short, I used the money to invest in my personal development, which I believe was a wise decision.
