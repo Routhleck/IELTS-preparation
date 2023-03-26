@@ -803,7 +803,7 @@ And explain why you would like to recommend it to visitors/travelers
 >Yes, many people travel to foreign countries to explore distinct landscapes and experience different environments. Natural landmarks, such as mountains, beaches, and deserts, are popular attractions for travelers seeking new and unique experiences. However, people's motivations for traveling can vary widely, and some may be more interested in cultural or historical experiences than in landscapes.
 
 ## 运动场所
-Pretend that you are a PhD student, majoring in management science and engineering. Now you are taking a IELTS speaking exam. Answer the following questions in a paragraph.
+
 Describe a popular place for sports (e.g. a stadium) that you've been to in China
 You should say:
 Where it is
@@ -863,7 +863,7 @@ live?**
 # P2/3 人物类 新题
 
 ## 想要一起学习/工作的人
-Pretend that you are a PhD student, majoring in management science and engineering. Now you are taking a IELTS speaking exam. Answer the following questions in a paragraph.
+
 Describe a person you have met who you want to work/study with 
 You should say:
 Who this person is
@@ -894,7 +894,7 @@ And explain why you want to work/study with him/her
 >Knowledgeable people can be popular at work, particularly if their expertise is in a field that is relevant to the team's goals or projects. However, it's important for knowledgeable individuals to also possess good communication skills and a willingness to collaborate with others, as these traits are often more important than raw intelligence or technical expertise. Additionally, it's important for knowledgeable individuals to be humble and open to learning from others, as no one person can be an expert in everything.
 
 ## 有趣的老人
-Pretend that you are a PhD student, majoring in management science and engineering. Now you are taking a IELTS speaking exam. Answer the following questions in a paragraph.
+
 Describe an interesting old person you have met
 You should say:
 Who this person is
@@ -908,8 +908,6 @@ And explain why you think this person is interesting
 >Outside of class, I had the opportunity to have lunch with Dr. Smith a few times, and I was struck by his sense of humor and his genuine interest in getting to know his students. He shared stories about his experiences working in industry and academia, and I found his insights to be very valuable.
 
 >Overall, I think Dr. Smith is a fascinating person because of his exceptional knowledge and passion for management science and engineering, as well as his ability to connect with students on a personal level. He inspired me to pursue a career in this field and to always strive for excellence in my work.
-
-Pretend that you are a PhD student, majoring in management science and engineering. Now you are taking a IELTS speaking exam. And answer the following questions:
 
 **1. Do you think old people and young people can share interests?**
 >Yes, I think old people and young people can share interests. While they may have different perspectives and experiences, there are many hobbies, activities, and topics that can be enjoyed by people of all ages. For example, playing music, traveling, or watching movies can be enjoyable for both young and old.
@@ -930,7 +928,7 @@ Pretend that you are a PhD student, majoring in management science and engineeri
 >People who are self-centered may be able to achieve certain personal goals and aspirations more effectively. However, being overly focused on oneself can also lead to a lack of empathy and understanding towards others. Ultimately, it's important to strike a balance between self-care and consideration for others to live a fulfilling and meaningful life.
 
 ## 聚会上遇到的人
-Pretend that you are a PhD student, majoring in management science and engineering. Now you are taking a IELTS speaking exam. Answer the following questions in a paragraph.
+
 Describe a person you met at a party who you enjoyed talking with 
 You should say:
 What party it was
@@ -941,7 +939,7 @@ And explain why you enjoyed talking with him/her
 
 >What I particularly enjoyed about speaking with Sarah was her ability to communicate complex ideas in a clear and concise manner. She had a knack for distilling technical concepts into understandable language, which made the conversation engaging and enjoyable. Furthermore, Sarah was genuinely interested in hearing my thoughts and opinions, which made me feel valued and encouraged me to share my ideas more freely. Overall, I found our conversation to be stimulating and insightful, and I left the party feeling grateful for the opportunity to have met someone with similar professional interests.
 
-Pretend that you are a PhD student, majoring in management science and engineering. Now you are taking a IELTS speaking exam. And answer the following questions:
+
 
 **1. In what situations would people be willing to get to know new people?**
 >For introverts, it must be an absolute need for then to step out of their comfort zone and 
@@ -973,7 +971,7 @@ unwilling to disclose any real information.
 >It can be difficult for adults to talk with children if they are not used to it or don't have much experience communicating with children. However, with some effort and patience, adults can learn to communicate effectively with children by using simple language, asking open-ended questions, and actively listening to their responses. It's important for adults to show genuine interest and respect for children's perspectives and ideas.
 
 ## 不寻常的一餐
-Pretend that you are a PhD student, majoring in management science and engineering. Now you are taking a IELTS speaking exam. Answer the following questions in a paragraph.
+
 Describe an unusual meal you had
 You should say:
 When you had it
@@ -1021,7 +1019,7 @@ started, people can get to know each other better.
 >Yes, food culture is highly valued in my country, with a rich culinary heritage and a diverse range of regional cuisines. Eating is not just about nourishment, but also about socializing, bonding, and celebrating cultural traditions.
 
 ## 教他人做事
-Pretend that you are a PhD student, majoring in management science and engineering. Now you are taking a IELTS speaking exam. Answer the following questions in a paragraph.
+
 Describe a time when you taught a friend/relative something
 You should say:
 Who you taught
@@ -1180,7 +1178,7 @@ And explain why he/she enjoys growing plants
 >Traditional agriculture refers to farming practices that have been used for centuries, often involving manual labor, small-scale farms, and a focus on sustainability and self-sufficiency. Modern agriculture, on the other hand, involves large-scale farms, mechanized equipment, and the use of technology and scientific advancements to increase efficiency and yields. While modern agriculture has led to increased productivity and food availability, it has also raised concerns about environmental impact and sustainability.
 
 ## 激励你做有趣事情的人
-Pretend that you are a PhD student, majoring in management science and engineering. Now you are taking a IELTS speaking exam. Answer the following questions in a paragraph.
+
 Describe a person who inspired you to do something interesting
 You should say:
 Who he/she is
@@ -1264,7 +1262,7 @@ And explain how you feel about it
 
 >However, despite the fact that I have been using it for a while now, I still find it challenging to operate. The process of connecting it to my laptop and getting it to print is often frustrating and time-consuming. Sometimes, the printer fails to recognize my computer, and I have to spend a considerable amount of time troubleshooting the issue. Furthermore, the ink cartridges need frequent replacement, which is quite expensive. Overall, I have mixed feelings about my printer - on the one hand, it is a useful piece of technology, but on the other hand, its operation is often a hassle.
 
-Pretend that you are a PhD student, majoring in management science and engineering. Now you are taking a IELTS speaking exam. And answer the following questions:
+
 1. What technology do people currently use?
 
 2. Why do big companies introduce new products frequently?
