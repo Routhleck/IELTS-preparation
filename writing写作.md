@@ -278,7 +278,7 @@ Task1作文同义词代换表
 | subway system                                  | underground railway system/underground train system        |
 | store                                          | shop                                                       |
 | the number of + 可数名词复数形式               | the figure for + 可数名词复数形式                          |
-| the amount of something + 不可数名词的单数形式 | the figure **for** + 不可数名词单数形式                    |
+| the amount of something + 不可数名词的单数形式 | the figure for + 不可数名词单数形式                        |
 
 ### 主体段介绍数据和变化趋势的常用词汇
 
