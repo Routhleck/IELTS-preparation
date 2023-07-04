@@ -247,6 +247,604 @@
 
 ## New
 
+### Car Journey
+
+**Describe a car journey you had**
+
+> You should say:
+> Where you went
+> What you did
+> Who you had the car journey with
+> And explain how you felt about the journey
+
+
+
+### Book read many times
+
+Describe a book that you have read many times
+
+> You should say:
+> What the book is
+> What is in this book
+> How often you read this book
+> Why you read it
+> And explain what effect the book has on you
+
+
+
+### Speech experience
+
+Describe an experience when you had to give a speech
+
+> You should say:
+> Who you gave the speech to
+> What the speech was about
+> Why you gave the speech
+> And explain how you felt about the speech
+
+
+
+### Childhood game
+
+Describe a game that you played in your childhood
+
+> You should say:
+> What the game was
+> When you played it
+> Who you played it with
+> And explain how you felt about the game
+
+
+
+### Disappointed movie
+
+Describe a movie you watched recently that you felt disappointed with
+
+> You should say:
+> Why you didn't like it
+> Why you decided to watch it
+> And explain why you felt disappointed about it
+
+
+
+### New shop
+
+Describe a new shop that recently opened in your city/town
+
+> You should say:
+> Where the shop is
+> What it sells
+> What kinds of people usually go to this shop
+> And explain how successful you think it will be in the future
+
+
+
+### Useful invention
+
+Describe an invention that is useful in your daily life
+
+> You should say:
+> What the invention was
+> What it can do
+> How popular it is
+> And explain whether it is difficult or easy to use
+
+
+
+### Place you plan to travel
+
+Describe a place you plan to travel to that is far away from your home in the future
+
+> You should say:
+> Where it would be
+> When you would like to go
+> How you would like to go there
+> What you would do there
+> Who you would go with
+> And explain why you would like to visit the place
+
+
+
+### Childhood happy experience
+
+Describe a happy experience in your childhood
+
+> You should say:
+> What it is
+> Who you were with
+> What you did
+> And explain why you felt happy
+
+
+
+### Someone moved to a new place
+
+Describe someone you know who has recently moved to a new place
+
+> You should say:
+> Who he/she is
+> What the new place is like
+> Why he/she moved there
+> And explain whether his or her move has had a positive impact on you
+
+
+
+### Occasion when you got incorrect information
+
+Describe an occasion when you got incorrect information
+
+> You should say:
+> When you got it
+> How you got it
+> How you found it was incorrect
+> And how you felt about it
+
+
+
+### Occasion when you spent time with a young child
+
+Describe an occasion when you spent time with a young child
+
+> You should say:
+> Who this child was
+> When you spent time with this child
+> What you did together
+> And how you felt about it
+
+
+
+### Clothing you enjoy wearing
+
+Describe a piece of clothing you enjoy wearing
+
+> You should say:
+> What it is like
+> When and where you got it
+> How often you wear it
+> And explain why you enjoy wearing it
+
+
+
+### Occasion when you got lost
+
+Describe an occasion when you got lost
+
+> You should say:
+> Where you were
+> What happened
+> How you felt
+> And explain how you found your way
+
+
+
+### Sport you enjoy watching
+
+Describe a sport you enjoy watching
+
+> You should say:
+> What it is
+> Where you watch it
+> Who you watch it with
+> And explain why you enjoyed watching the program
+
+
+
+### Traditional celebration
+
+Describe a traditional celebration in your country that you enjoy
+
+> You should say:
+> What it is
+> What you do to celebrate it
+> Who you celebrate it with And explain why you enjoy it
+
+
+
+### Ideal house
+
+Describe the ideal house you would like to have
+
+> You should say:
+> Where it would be
+> What it is like
+> What special features it has
+> And explain why it would be your ideal house
+
+
+
+### Interesting job
+
+Describe a job that you think is interesting
+
+> You should say:
+> What it is
+> How you knew it
+> What skills it requires
+> And explain why you think it is interesting
+
+
+
+### Someone helps others
+
+Describe someone you know who often helps others
+
+> You should say:
+> What he/she is like
+> How he/she helps others
+> Why his/her help is beneficial
+> And explain why he/she helps others
+
+
+
+### Adventure in the future
+
+Describe an adventure you would like to take in the future
+
+> You should say:
+> What the adventure is
+> Where you would go
+> Who you would be with
+> And explain why you would like to take the adventure
+
+
+
+### Expensive gift
+
+Describe an expensive gift that you would like to give someone if you’d saved a lot of money
+
+> You should say:
+> What the gift would be
+> Who you would give the gift to
+> How long it would take to save the money
+> And explain why you would like to give the gift to this person
+
+
+
+### Important decision
+
+Describe an important decision that you made
+
+> You should say:
+> What the decision was
+> How you made your decision
+> What the results of the decision were
+> And explain why it was important
+
+
+
+### Water sport
+
+Describe a water sport you would like to try in the future
+
+> You should say:
+> What it is
+> Where you would like to try it
+> Whether it is difficult
+> And explain why you would like to try it
+
+
+
+### Crowded place
+
+Describe a place you have been to where there were lots of people
+
+> You should say:
+> Where it was
+> Who you were with
+> What people were doing there
+> And explain why there were lots of people
+
+
+
+### Famous person
+
+Describe a famous person you are interested in
+
+> You should say:
+> Who he/she is
+> How you knew about him/her
+> What he/she was like before he/she became famous
+> And explain why you are interested in him/her
+
 
 
 ## Old
+
+### Historical period
+
+Describe a historical period/moment you would like to learn more about
+
+> You should say:
+> What you are interested in
+> When it happened
+> What you know about it
+> And why you would like to learn more
+
+
+
+### Website
+
+Describe a website you often visit
+
+> You should say:
+> What it is about
+> How you found out about it
+> How often you visit it
+> And explain why you often visit it
+
+
+
+### Technology is difficult to use
+
+Describe a piece of technology you own that you feel is difficult to use
+
+> You should say:
+> When you got it
+> What you got it for
+> How often you use it
+> And explain how you feel about it
+
+
+
+### Another city you stay for a short time
+
+Describe another city you would like to stay for a short time
+
+>
+> You should say:
+> Where the city is
+> Why you want to go there
+> Whom you will go there with
+> What you will do there
+> And explain why you will stay there just for a short time
+
+
+
+### Unusual meal
+
+Describe an unusual meal you had
+
+> You should say:
+> When you had it
+> Where you had it
+> Whom you had it with
+> And explain why it was unusual
+
+
+
+### Favorite place in your house
+
+Describe your favorite place in your house where you can relax
+
+> You should say:
+> Where it is
+> What it is like
+> What you enjoy doing there
+> And explain why you feel relaxed at this place
+
+
+
+### Person you met at a party
+
+Describe a person you met at a party who you enjoyed talking with
+
+> You should say:
+> What party it was
+> Who this person is
+> What you talked about
+> And explain why you enjoyed talking with him/her
+
+
+
+### Something you did with someone
+
+Describe something that you did with someone/a group of people
+
+> You should say:
+> What it was
+> Who you did it with
+> How long it took you to do this
+> And explain why you did it together
+
+
+
+### First day went to school
+
+Describe your first day at school that you remember
+
+> You should say:
+> Where the school was
+> How you went there
+> What happened that day
+> And how you felt on that day
+
+
+
+### Actor or actress you admire
+
+Describe an actor or actress whom you admire
+
+> You should say:
+> Who he/she is
+> What he/she looks like
+> What kind of movies he/she appears in And explain why you admire this actor/actress
+
+
+
+### Sports you enjoyed when you were young
+
+Describe a sport you enjoyed when you were young
+
+> You should say:
+> What it was
+> Where you did it
+> Who you did it with
+> And explain why you enjoyed it
+
+
+
+### Taught a firend/relative
+
+Describe a time when you taught a friend/relative something
+
+> You should say:
+> Who you taught
+> What/how you taught
+> What the result was
+> And explain how you felt about the experience
+
+
+
+### Good news from people you know well
+
+Describe a piece of good news that you heard about someone you know well
+
+> You should say:
+> What it was
+> When you heard it
+> How you knew it
+> And explain how you felt about it
+
+
+
+### Something made you feel proud
+
+Describe something you did that made you feel proud
+
+> You should say:
+> What it was
+> How you did it
+> What difficulty you had
+> How you dealt with the difficulty
+> And explain why you felt proud of it
+
+
+
+### Interesting old person
+
+Describe an interesting old person you have met
+
+> You should say:
+> Who this person is
+> When/where you met this person
+> What you did with this person
+> And explain why you think this person is interesting
+
+
+
+### Gift
+
+Describe a gift you got
+
+> You should say:
+> What it was
+> When you received it
+> Who gave it to you
+> And explain why you wanted it so much
+
+
+
+### Missed or late for a meeting
+
+Describe a time when you missed or were late for a meeting
+
+> You should say:
+> When it happened
+> What happened
+> Why you missed/were late for it
+> And explain how you felt about this experience
+
+
+
+### New development in the area you live
+
+Describe a new development in the area where you live (e.g.shopping mall, park...)
+
+> You should say:
+> What the development is
+> When/where you noticed it
+> How long it took to complete it
+> And explain how you feel about it
+
+
+
+### Noisy place
+
+Describe a noisy place you have been to
+
+> You should say:
+> What it is
+> When you went there
+> What you did there
+> And explain why you feel it's a noisy place
+
+
+
+### Place air was polluted
+
+Describe a place you visited where the air was polluted
+
+> You should say:
+> Where the place is
+> When you visited there
+> Why the air was not good
+> And explain how you felt about the place
+
+
+
+### Person you want to work/study with
+
+Describe a person you have met who you want to work/study with
+
+> You should say:
+> Who this person is
+> How you met this person
+> How long you have known him/her
+> And explain why you want to work/study with him/her
+
+
+
+### Time you made a complaint
+
+Describe a time when you made a complaint and were satisfied with the result
+
+> You should say:
+> When it happened
+> Who you complained to
+> What you complained about
+> And explain why you were satisfied with the result
+
+
+
+### Something you would like to learn
+
+Describe something you would like to learn in the future
+
+> You should say:
+> What it is
+> How you would like to learn it Where you would like to learn it
+> Why you would like to learn it
+> And explain whether it's difficult to learn it
+
+
+
+### AD you don't like
+
+Describe an advertisement you don't like
+
+> You should say:
+> Where and when you first saw it
+> What type of advertisement it is
+> What product or service it advertises
+> And explain why you don't like it
+
+
+
+### Daily routine
+
+Describe a daily routine that you enjoy
+
+> You should say:
+> What it is
+> Where and when you do it
+> Who you do it with And explain why you enjoy it
