@@ -1,4 +1,4 @@
-# P1
+# P1 (30 topics)
 
 ## New
 
@@ -243,7 +243,7 @@
 7. Please describe your hometown a little.
 8. Do you think you will continue living there for a long time?
 
-# P2
+# P2 (60 topics)
 
 ## New
 
